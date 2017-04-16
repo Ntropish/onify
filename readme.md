@@ -1,4 +1,3 @@
-## ONIFY
 ### Futuristic Event Handler Registry
 
 
